@@ -1,2 +1,3 @@
 # Image_Watermarking
-Image Watermarking App
+## Image Watermarking App
+Credits: Pianalytix-Udemy
