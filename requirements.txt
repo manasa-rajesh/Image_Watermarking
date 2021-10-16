@@ -1,0 +1,7 @@
+Flask
+imutils
+Keras
+opencv-python
+Pillow==8.0.1
+tensorflow
+scikit-image
